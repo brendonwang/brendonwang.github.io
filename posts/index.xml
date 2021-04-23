@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Genuis Hour Project Blog</title>
+    <link>https://brendonwang.github.io/posts/</link>
+    <description>Recent content in Posts on My Genuis Hour Project Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Apr 2021 13:47:31 -0700</lastBuildDate><atom:link href="https://brendonwang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Pitch</title>
+      <link>https://brendonwang.github.io/posts/my-pitch/</link>
+      <pubDate>Wed, 21 Apr 2021 13:47:31 -0700</pubDate>
+      
+      <guid>https://brendonwang.github.io/posts/my-pitch/</guid>
+      <description>What: Make a video game using pygame. Why: I like coding and I learned pygame a long time ago but didn&amp;rsquo;t use it. How: I will spend the first and second week making prodotypes. The third is art. The last is coding the game. Sucess: Making a video game that works and has a UI.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://brendonwang.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 12 Apr 2021 20:39:44 -0700</pubDate>
+      
+      <guid>https://brendonwang.github.io/posts/my-first-post/</guid>
+      <description>I made a python prototype to do a tic-tac-toe.</description>
+    </item>
+    
+  </channel>
+</rss>
